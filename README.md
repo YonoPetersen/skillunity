@@ -4,4 +4,4 @@
 
 ## zelf gdn
 
-![skillcube](skillcube.gif2)
+![skillcube2](skillcube2.gif)
